@@ -1,0 +1,6 @@
+1. Linux-VM auf einer virtuellen Plattform aufsetzen z.B. Windows Hyper-V
+2. in Linux Dateiexplorer öffnen --> auf "other locations" gehen
+3. unter 'Connect to Server' wie folgend Server eintragen mit dem Samba-Protokoll:
+--> smb://<server-adresse> (z.B.: smb://192.168.178.1)
+4. die jeweiligen Zugangsdaten eintragen --> fertig
+
